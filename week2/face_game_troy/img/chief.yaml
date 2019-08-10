@@ -1,0 +1,231 @@
+
+animations:
+  - animation: Animation_0
+    frames:
+      - frame: Frame_0
+        delay: 2
+        layers:
+          - layer: Layer_-2
+            imgBase64: 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
+            x_image: 0
+            y_image: 0
+          - layer: left_hand
+            color: "#000000"
+            x:
+              - 102.625
+              - 119
+              - 119
+              - 115
+              - 115
+              - 107
+              - 107
+              - 102.625
+            y:
+              - 102.25
+              - 102.25
+              - 110
+              - 110
+              - 113.875
+              - 113.875
+              - 110.125
+              - 110.125
+          - layer: right_hand
+            color: "#000000"
+            x:
+              - 27.125
+              - 43
+              - 43
+              - 39.125
+              - 39.125
+              - 31
+              - 31
+              - 27.125
+            y:
+              - 102.125
+              - 102.125
+              - 110.25
+              - 110.25
+              - 114.125
+              - 114.125
+              - 109.875
+              - 109.875
+          - layer: Layer_1
+            color: "#000000"
+            x:
+              - 51
+              - 47.125
+              - 47
+              - 43.25
+              - 43.125
+              - 39.125
+              - 39.125
+              - 50.875
+              - 51.125
+              - 55
+              - 55
+              - 91.25
+              - 91.125
+              - 95.25
+              - 95.25
+              - 107.25
+              - 107.125
+              - 103.125
+              - 103.25
+              - 99.125
+              - 99.125
+              - 95
+              - 95
+              - 99.125
+              - 99.125
+              - 95.125
+              - 95
+              - 91.125
+              - 91
+              - 87
+              - 87
+              - 83.125
+              - 83.25
+              - 63.125
+              - 63.125
+              - 58.875
+              - 58.75
+              - 55.125
+              - 55.125
+              - 51
+              - 51
+              - 47.125
+              - 47.125
+              - 63
+              - 62.875
+              - 83
+              - 83
+              - 95
+              - 95
+              - 83.125
+              - 83.125
+              - 63.125
+              - 63
+              - 51.125
+            y:
+              - 97.875
+              - 98
+              - 82.25
+              - 82.125
+              - 78
+              - 78.125
+              - 66.125
+              - 66.25
+              - 90
+              - 90.125
+              - 98
+              - 97.875
+              - 90.25
+              - 90.125
+              - 66.25
+              - 66.25
+              - 78
+              - 77.875
+              - 82
+              - 82.125
+              - 98
+              - 98
+              - 106.125
+              - 106.25
+              - 110.125
+              - 110.125
+              - 118
+              - 118.125
+              - 122.125
+              - 122
+              - 125.875
+              - 126
+              - 130
+              - 130
+              - 126.125
+              - 126.125
+              - 122.375
+              - 122.125
+              - 118
+              - 117.875
+              - 106
+              - 106.125
+              - 110.125
+              - 110.125
+              - 118
+              - 117.875
+              - 110
+              - 110
+              - 105.875
+              - 105.875
+              - 102.25
+              - 102.25
+              - 106
+              - 106
+          - layer: Layer_2
+            color: "#000000"
+            x:
+              - 47.125
+              - 98.75
+              - 98.75
+              - 95.625
+              - 95.625
+              - 79.125
+              - 79
+              - 67
+              - 67.125
+              - 51.375
+              - 51.375
+              - 47.125
+            y:
+              - 138.125
+              - 138.25
+              - 145.75
+              - 145.75
+              - 142.125
+              - 142.25
+              - 145.75
+              - 145.75
+              - 142.125
+              - 142.125
+              - 146
+              - 146
+          - layer: Layer_3
+            color: "#000000"
+            x:
+              - 99.5
+              - 99.5
+              - 47.5
+              - 47.375
+            y:
+              - 154.375
+              - 158.125
+              - 158
+              - 154.375
+          - layer: Layer_4
+            color: "#000000"
+            x:
+              - 55.125
+              - 63.125
+              - 63.125
+              - 67.125
+              - 67
+              - 63.125
+              - 63.25
+              - 55.125
+              - 55.25
+              - 51.125
+              - 51.25
+              - 55.125
+            y:
+              - 50.125
+              - 50
+              - 54
+              - 54.125
+              - 57.625
+              - 57.75
+              - 54.375
+              - 54.25
+              - 49.75
+              - 49.875
+              - 42.25
+              - 42.25
